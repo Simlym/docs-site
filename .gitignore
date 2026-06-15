@@ -1,0 +1,16 @@
+# 依赖
+node_modules/
+
+# 构建产物
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+
+# 本地缓存与日志
+*.log
+npm-debug.log*
+.DS_Store
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
